@@ -16,7 +16,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Criação do banco de dados
 - [x] Criação das classes de modelo
 - [x] Criação da conexão com o banco de dados
-- [ ] Criação das classes de controle (Acesso ao banco de dados)
+- [x] Criação das classes de controle (Acesso ao banco de dados)
 - [ ] Criação das interfaces gráficas
 - [ ] Implementação dos eventos
 - [ ] Ajustes finais
